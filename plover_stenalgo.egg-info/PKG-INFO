@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: plover-stenalgo
+Version: 0.1.0
+Summary: Plover system plugin for Stenalgo's French Starboard steno theory
+Requires-Python: >=3.9
