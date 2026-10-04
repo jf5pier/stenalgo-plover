@@ -1,9 +1,0 @@
-pyproject.toml
-plover_stenalgo/__init__.py
-plover_stenalgo/_generated_keys.py
-plover_stenalgo/system.py
-plover_stenalgo.egg-info/PKG-INFO
-plover_stenalgo.egg-info/SOURCES.txt
-plover_stenalgo.egg-info/dependency_links.txt
-plover_stenalgo.egg-info/entry_points.txt
-plover_stenalgo.egg-info/top_level.txt

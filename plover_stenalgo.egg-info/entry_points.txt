@@ -1,2 +1,0 @@
-[plover.system]
-Stenalgo French = plover_stenalgo.system
